@@ -1,6 +1,10 @@
 # plexbar
 A PlexAmp plugin for waybar
 
+## Demo
+
+[![Demo of plexbar in waybar](https://github.com/tonyskapunk/synology-plex-updater/assets/116447/f0426440-3cfe-4c19-bb0b-56417ab16309)](https://github.com/tonyskapunk/synology-plex-updater/assets/116447/956cfb7d-2e27-4aa2-9a19-da061987a6ac)
+
 ## Example
 
 Place the plexbar script under `~/.config/waybar/custom/plexbar/plexbar`
