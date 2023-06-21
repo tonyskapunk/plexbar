@@ -3,7 +3,7 @@ A PlexAmp plugin for waybar
 
 ## Demo
 
-[![Demo of plexbar in waybar](https://github.com/tonyskapunk/synology-plex-updater/assets/116447/f0426440-3cfe-4c19-bb0b-56417ab16309)](https://github.com/tonyskapunk/synology-plex-updater/assets/116447/956cfb7d-2e27-4aa2-9a19-da061987a6ac)
+[![Demo of plexbar in waybar](https://github.com/tonyskapunk/plexbar/assets/116447/5eb65acc-a4c4-4d2f-addf-328858a5ab1c)](https://github.com/tonyskapunk/plexbar/assets/116447/bbf16b44-3306-4b81-bf67-94441751a1a9)
 
 ## Example
 
